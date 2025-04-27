@@ -2,9 +2,11 @@
 
 **A passionate Web Developer from Bangladesh 🇧🇩**
 
-📚 I'm currently studying Computer Science.
 
-💻 I have skills in both **Frontend** and **Backend** Development.
+🎓 I am currently pursuing my studies in **Computer Science** at **BACE Institute of Science and Technology (BIST)**.  
+💻 A passionate Web Developer focused on building clean, user-friendly, and dynamic web applications.  
+🌟 I believe in continuous learning, creativity, and delivering high-quality work that leaves a lasting impression.
+
 
 ---
 
